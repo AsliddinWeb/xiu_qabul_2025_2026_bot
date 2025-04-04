@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+credentials.json
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Logs and misc
+*.log
+*.sqlite3
+*.db
+*.bak
+
+# macOS specific
+*.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled C files
+*.so
