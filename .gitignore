@@ -14,7 +14,6 @@ Thumbs.db
 
 # Credentials
 .env
-credentials.json
 
 # IDE/Editor folders
 .vscode/
